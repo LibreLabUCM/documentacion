@@ -270,22 +270,19 @@ Al inscribirte en LibreLabUCM declaras y garantizas que tus datos personales que
 
 #### 6.2. Categorías de datos que tratamos
 
-* Datos de carácter identificativo
-Nombre, apellidos, DNI/NIF, NIE, núm. de pasaporte, fecha de nacimiento, firma, teléfono, dirección, imagen, voz, género
+<ul>
+  <li><strong>Datos de carácter identificativo</strong><p>Nombre, apellidos, DNI/NIF, NIE, núm. de pasaporte, fecha de nacimiento, firma, teléfono, dirección, imagen, voz, género</p></li>
 
-* Datos de carácter económico y financiero
-  Número IBAN de la cuenta bancaria, número de tarjeta de crédito
+<li><strong>Datos de carácter económico y financiero</strong><p>Número IBAN de la cuenta bancaria, número de tarjeta de crédito</p></li>
   
-* Datos académicos y profesionales
-  Profesión, estudios, títulos, dedicación laboral
+<li><strong>Datos académicos y profesionales</strong><p>Profesión, estudios, títulos, dedicación laboral</p></li>
 
-* Datos de correo electrónico
-  Dirección de correo electrónico personal y profesional
+<li><strong>Datos de correo electrónico</strong><p>Dirección de correo electrónico personal y profesional</p></li>
 
-* Datos de identificación en redes sociales
-  Identificadores de redes sociales
+<li><strong>Datos de identificación en redes sociales</strong><p>Identificadores de redes sociales</p></li>
 
-* Datos de identificación en internet
-  Dirección IP, login, fecha y hora de acceso a la web de LibreLabUCM
+<li><strong>Datos de identificación en internet</strong><p>Dirección IP, login, fecha y hora de acceso a la web de LibreLabUCM</p></li>
+  
+</ul>
   
 Puedes consultar esta información adicional sobre Protección de Datos y descargar una copia en la página web librelabucm.org
