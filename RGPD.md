@@ -285,4 +285,4 @@ Al inscribirte en LibreLabUCM declaras y garantizas que tus datos personales que
   
 </ul>
   
-Puedes consultar esta información adicional sobre Protección de Datos y descargar una copia en la página web librelabucm.org
+Puedes consultar esta información adicional sobre Protección de Datos y descargar una copia en la página web <a href="http://librelabucm.org">librelabucm.org</a>
