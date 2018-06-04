@@ -213,7 +213,7 @@ En relación a los encargos de tratamiento de datos de LibreLabUCM, te informamo
  <p>LibreLabUCM estará obligado a suprimir sin dilación indebida los datos personales cuando concurra alguna de las circunstancias siguientes:
 <br>
 <ol style="list-style-type: lower-alpha;"><li> los datos personales ya no sean necesarios en relación con los fines para los que fueron recogidos o tratados de otro modo;</li>
-<li> el interesado retire el consentimiento prestado para fines específicos o el consentimiento expreso prestado para el tratamiento de datos, como los que revelen el origen étnico o racial, mientras este tratamiento no se base en otro fundamento jurídico;</li>
+<li> el interesado retire el consentimiento prestado para fines específicos o el consentimiento expreso prestado para el tratamiento de datos, mientras este tratamiento no se base en otro fundamento jurídico;</li>
 <li> el interesado se oponga al tratamiento por motivos relacionados con su situación particular y no prevalezcan otros motivos legítimos para el tratamiento;</li>
 <li> los datos personales hayan sido tratados ilícitamente;</li>
 <li> los datos personales deban suprimirse para el cumplimiento de una obligación legal establecida en el Derecho de la Unión o de los Estados miembros que se aplique al responsable del tratamiento.</li></ol>
