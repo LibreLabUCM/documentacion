@@ -108,13 +108,13 @@ La asociación de estudiantes LIBRELABUCM, con NIF G87920658, es el responsable 
 
 #### 1.2. ¿Cómo puedes contactar con LibreLabUCM?
 * Por correo postal:
- <p>LibreLabUCM
+ <br>LibreLabUCM
  <br>Calle del Profesor José García Santesmases 9. Despacho 120
  <br>28040 MADRID
 * Por correo electrónico:
   <br>librelab@ucm.es
 * Por teléfono:
-  <br>604102266</p>
+  <br>604102266
 
 #### 1.3. ¿Cómo puedes contactar con nuestro Delegado de Protección de Datos?
 Si tienes cualquier duda sobre la protección de tus datos personales o quieres formular una reclamación puedes contactar con el Delegado de Protección de Datos a través de la siguiente dirección de correo electrónico, indicando en el asunto "RGPD":
