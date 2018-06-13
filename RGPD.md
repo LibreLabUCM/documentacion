@@ -4,27 +4,20 @@
 
 # Política de privacidad de LibreLabUCM
 ## Protección de datos personales
-<p>
+
   El Reglamento General de Protección de Datos (en adelante, RGPD),aplicable a partir del 25 de mayo de 2018,es una norma de aplicación directa en toda la Unión Europea, relativa a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos.
-</p>
-<p>
+
   Este nuevo Reglamento europeo sustituye a la actual Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal (LOPD) y al Real Decreto 1720/2007, de 21 de diciembre, que aprueba el Reglamento de desarrollo de la misma.
-</p>
-<p>
+
   LIBRELABUCM está plenamente comprometida con el respeto a la privacidad como derecho fundamental de todas las personas inscritas y cumple de forma estricta y con transparencia la normativa en materia de protección de datos.
-</p>
-<p>
+
   Para garantizar un nivel de seguridad adecuado al riesgo en el tratamiento de los datos de las personas inscritas, LIBRELABUCM aplica las medidas técnicas y organizativas apropiadas, teniendo en cuenta el estado de la técnica y la naturaleza, el alcance, el contexto y los fines del tratamiento.
-</p>
-<p>
+
   Las finalidades del tratamiento de los datos de las personas inscritas en LIBRELABUCM son, principalmente la gestión de la información de las personas inscritas en la asociación, la gestión de sus derechos y obligaciones, la gestión de las colaboraciones económicas, la gestión de los procesos de votación, la tramitación de los procedimientos disciplinarios regulados en los Estatutos y, en general, facilitar información sobre las diferentes actividades de la asociación y la gestión de la participación en las mismas de las personas inscritas.
-</p>
-<p>
+
   LIBRELABUCM, como responsable del tratamiento de los datos personales de las personas inscritas en la asociación, cumpliendo con la obligación legal de informar sobre las circunstancias relativas al tratamiento de los datos, facilita la siguiente información sobre protección de datos personales, para garantizar un tratamiento leal y transparente.
-</p>
-<p>
+
   Es muy importante que leas con detenimiento este documento para que conozcas toda la información relativa a los datos personales que te solicitamos, a los tratamientos que llevamos a cabo con los mismos y los derechos que puedes ejercer para proteger tu privacidad.
-</p>
 
 ## INFORMACIÓN BÁSICA SOBRE PROTECCIÓN DE DATOS DE LAS PERSONAS INSCRITAS EN LIBRELABUCM
 
@@ -107,14 +100,14 @@
 La asociación de estudiantes LIBRELABUCM, con NIF G87920658, es el responsable del tratamiento de tus datos personales, conforme a lo dispuesto en el Reglamento General de Protección de Datos (RGPD).
 
 #### 1.2. ¿Cómo puedes contactar con LibreLabUCM?
-* Por correo postal:
- <br>LibreLabUCM
- <br>Calle del Profesor José García Santesmases 9. Despacho 120
- <br>28040 MADRID
-* Por correo electrónico:
-  <br>librelab@ucm.es
-* Por teléfono:
-  <br>604102266
+* Por correo postal:  
+**LibreLabUCM**  
+Calle del Profesor José García Santesmases 9. Despacho 120  
+28040 MADRID
+* Por correo electrónico:  
+librelab@ucm.es
+* Por teléfono:  
+604102266
 
 #### 1.3. ¿Cómo puedes contactar con nuestro Delegado de Protección de Datos?
 Si tienes cualquier duda sobre la protección de tus datos personales o quieres formular una reclamación puedes contactar con el Delegado de Protección de Datos a través de la siguiente dirección de correo electrónico, indicando en el asunto "RGPD":
@@ -123,18 +116,18 @@ librelab@ucm.es
 ### 2. ¿Con qué finalidad tratamos tus datos personales?
 #### 2.1. Descripción de los fines del tratamiento de tus datos:
 Tus datos serán tratados para las siguientes finalidades:
-<ul><li> Gestionar la información de las personas inscritas en la asociación. </li>
-<li>Informar sobre las actividades de la asociación y promocionar la participación mediante comunicaciones electrónicas.</li>
-<li>Gestionar los derechos y obligaciones de las personas inscritas.</li>
-<li>Gestionar las colaboraciones económicas.</li>
-<li>Gestionar la participación en elecciones de cargos internos.</li>
-<li>Gestionar las votaciones en las consultas internas.</li>
-<li>Gestionar y controlar el acceso a las páginas web de LibreLabUCM.</li>
-<li>Gestionar la participación en las Asamblea Generales y reuniones.</li>
-<li>Gestionar la colaboración personal de carácter voluntario.</li>
-<li>Notificar las resoluciones dictadas por la Junta Directiva.</li>
-<li>Gestionar la participación en las diferentes actividades de la asociación.</li>
-<li>Evaluación de calidad de las distintas actividades de la asociación.</li></ul>
+- Gestionar la información de las personas inscritas en la asociación.
+- Informar sobre las actividades de la asociación y promocionar la participación mediante comunicaciones electrónicas.
+- Gestionar los derechos y obligaciones de las personas inscritas.
+- Gestionar las colaboraciones económicas.
+- Gestionar la participación en elecciones de cargos internos.
+- Gestionar las votaciones en las consultas internas.
+- Gestionar y controlar el acceso a las páginas web de LibreLabUCM.
+- Gestionar la participación en las Asamblea Generales y reuniones.
+- Gestionar la colaboración personal de carácter voluntario.
+- Notificar las resoluciones dictadas por la Junta Directiva.
+- Gestionar la participación en las diferentes actividades de la asociación.
+- Evaluación de calidad de las distintas actividades de la asociación.
 
 #### 2.2. ¿Durante cuánto tiempo conservaremos tus datos?
 
@@ -246,8 +239,9 @@ Al ejercer tu derecho a la portabilidad de los datos tendrás derecho a que los 
 <br>Tienes derecho a retirar en cualquier momento el consentimiento otorgado para alguna finalidad específica.</li>
 <br>La retirada del consentimiento no afectará a la licitud del tratamiento basada en el consentimiento previo a su retirada ni el tratamiento basado en otro fundamento jurídico.</ol>
 
-#### 5.2. ¿Cómo puedes ejercer tus derechos?
-Como persona inscrita en LibreLabUCM puedes solicitar modificaciones, recibir información sobre el tratamiento de tus datos personales y ejercitar tus derechos enviando personalmente una petición, detallando el derecho que quieres ejercitar, por correo electrónico a la dirección librelab@ucm.es o por correo postal al domicilio social de LibreLabUCM, en la calle del Profesor José García Santesmases 9. Despacho 120, 28040 MADRID.
+#### 5.2. ¿Cómo puedes ejercer tus derechos?  
+
+Como persona inscrita en LibreLabUCM puedes solicitar modificaciones, recibir información sobre el tratamiento de tus datos personales y ejercitar tus derechos enviando personalmente una petición, detallando el derecho que quieres ejercitar, por correo electrónico a la dirección librelab@ucm.es o por correo postal al domicilio social de LibreLabUCM, en la calle del Profesor José García Santesmases 9. Despacho 120, 28040 MADRID.  
 
 Deberás acreditar tu identidad adjuntando una copia del documento legal de identificación que hayas utilizado para tu inscripción (DNI, NIE o pasaporte) o cualquier otro documento legal que permita acreditar de forma inequívoca tu identidad.
 
@@ -271,19 +265,23 @@ Al inscribirte en LibreLabUCM declaras y garantizas que tus datos personales que
 
 #### 6.2. Categorías de datos que tratamos
 
-<ul>
-  <li><strong>Datos de carácter identificativo</strong><p>Nombre, apellidos, DNI/NIF, NIE, núm. de pasaporte, fecha de nacimiento, firma, teléfono, dirección, imagen, voz, género</p></li>
+- **Datos de carácter identificativo**  
+Nombre, apellidos, DNI/NIF, NIE, núm. de pasaporte, fecha de nacimiento, firma, teléfono, dirección, imagen, voz, género.
 
-<li><strong>Datos de carácter económico y financiero</strong><p>Número IBAN de la cuenta bancaria, número de tarjeta de crédito</p></li>
+- **Datos de carácter económico y financiero**  
+Número IBAN de la cuenta bancaria, número de tarjeta de crédito
 
-<li><strong>Datos académicos y profesionales</strong><p>Profesión, estudios, títulos, dedicación laboral</p></li>
+- **Datos académicos y profesionales**  
+Profesión, estudios, títulos, dedicación laboral.
 
-<li><strong>Datos de correo electrónico</strong><p>Dirección de correo electrónico personal y profesional</p></li>
+- **Datos de correo electrónico**  
+Dirección de correo electrónico personal y profesional.
 
-<li><strong>Datos de identificación en redes sociales</strong><p>Identificadores de redes sociales</p></li>
+- **Datos de identificación en redes sociales**  
+Identificadores de redes sociales.
 
-<li><strong>Datos de identificación en internet</strong><p>Dirección IP, login, fecha y hora de acceso a la web de LibreLabUCM</p></li>
+- **Datos de identificación en internet**  
+Dirección IP, login, fecha y hora de acceso a la web de LibreLabUCM.
 
-</ul>
 
 Puedes consultar esta información adicional sobre Protección de Datos y descargar una copia en la página web <a href="http://librelabucm.org">librelabucm.org</a>
