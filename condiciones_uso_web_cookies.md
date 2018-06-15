@@ -14,7 +14,7 @@ https://librelabucm.org/
 Para información general, gestión de datos personales, colaboraciones económicas o contactar con el delegado de protección de datos. Indicar en el asunto correctamente la finalidad del contacto, a librelab@ucm.es
 
 ## 2. Condiciones generales de acceso y uso de la web librelabucm.org
-### 2.1. Condición de usuario o usuaria y derecho de acceso
+### 2.1. Condición de usuaria y derecho de acceso
 
 El acceso a los contenidos de esta web es público y gratuito.
 
@@ -22,7 +22,7 @@ Algunos servicios de esta web pueden estar reservados a las personas inscritas e
 
 La persona que acceda, navegue, utilice o participe en los servicios de esta web tendrá la condición legal de USUARIA de la web e implicará la aceptación expresa y sin reservas de todas y cada una de las condiciones generales que se publican en este aviso legal y de las condiciones particulares que se incluyan en las páginas del sitio o para servicios concretos.
 
-El derecho a acceder, navegar y utilizar la información y servicios de esta web queda condicionado al buen uso de la misma, a la utilización de datos veraces por parte de los usuarios y al cumplimiento de las presentes condiciones generales y las condiciones particulares incluidas en las páginas del sitio.
+El derecho a acceder, navegar y utilizar la información y servicios de esta web queda condicionado al buen uso de la misma, a la utilización de datos veraces por parte de las usuarias y al cumplimiento de las presentes condiciones generales y las condiciones particulares incluidas en las páginas del sitio.
 
 LIBRELABUCM denegará, retirará el acceso y uso de la web y cancelará, en su caso, las cuentas de usuario que pudieran existir, en cualquier momento y sin previo aviso, a toda persona que incumpla las condiciones generales o particulares que regulen el uso de este sitio web.
 
@@ -34,30 +34,30 @@ LIBRELABUCM se reserva el derecho de modificar unilateralmente en cualquier mome
 
 También se reserva el derecho a modificar unilateralmente en cualquier momento y sin previo aviso el diseño, servicios, información y configuración del sitio web.
 
-El acceso y uso de la web tienen, en principio, una duración indefinida. No obstante, LIBRELABUCM se reserva el derecho a suspender el acceso a la web y su uso en cualquier momento. En estos casos lo comunicará a las usuarias y a los usuarios por correo electrónico o mediante aviso en la página de inicio.
+El acceso y uso de la web tienen, en principio, una duración indefinida. No obstante, LIBRELABUCM se reserva el derecho a suspender el acceso a la web y su uso en cualquier momento. En estos casos lo comunicará a las usuarias por correo electrónico o mediante aviso en la página de inicio.
 
-Las modificaciones serán publicadas oportunamente a las usuarias y a los usuarios mediante avisos en la propia página web.
+Las modificaciones serán publicadas oportunamente a las usuarias mediante avisos en la propia página web.
 
 ### 2.3. Uso del contenido y servicios de la web
-Las usuarias y los usuarios de la web se abstendrán de utilizar cualquiera de los servicios y contenidos de esta web con fines o efectos ilícitos, prohibidos en estas condiciones, que vulneren los derechos y libertades de otras personas o que de cualquier forma puedan dañar, inutilizar, sobrecargar, deteriorar o impedir la utilización normal y correcta de los
-servicios de esta web, los equipos informáticos o los documentos, archivos y contenidos almacenados en cualquier equipo informático o servidor de LIBRELABUCM o de otras usuarias y usuarios.
+Las usuarias de la web se abstendrán de utilizar cualquiera de los servicios y contenidos de esta web con fines o efectos ilícitos, prohibidos en estas condiciones, que vulneren los derechos y libertades de otras personas o que de cualquier forma puedan dañar, inutilizar, sobrecargar, deteriorar o impedir la utilización normal y correcta de los
+servicios de esta web, los equipos informáticos o los documentos, archivos y contenidos almacenados en cualquier equipo informático o servidor de LIBRELABUCM o de otras usuarias.
 
 Cuando el uso de estas herramientas implique el enlace a sitios web de terceros, deberán cumplirse las condiciones de uso, empleo de cookies y política de privacidad del prestador de servicios de la web de destino.
 
-Las usuarias y los usuarios no están autorizados a reproducir, copiar, distribuir, modificar, ceder o comunicar públicamente la información contenida en la web a menos que se cuente con la autorización del titular de los correspondientes derechos o que resulte legalmente permitido.
+Las usuarias no están autorizadas a reproducir, copiar, distribuir, modificar, ceder o comunicar públicamente la información contenida en la web a menos que se cuente con la autorización del titular de los correspondientes derechos o que resulte legalmente permitido.
 
-Las usuarias y los usuarios no están autorizados a enviar mensajes no solicitados dirigidos a una pluralidad de personas con independencia de su finalidad, así como comercializar de cualquier modo dicha información.
+Las usuarias no están autorizadas a enviar mensajes no solicitados dirigidos a una pluralidad de personas con independencia de su finalidad, así como comercializar de cualquier modo dicha información.
 
 ### 2.4. Titularidad de los contenidos y propiedad intelectual
 Toda la información contenida en esta web, incluyendo imágenes, diseños gráficos o códigos informáticos, nombres comerciales, marcas y signos distintivos, entre otros, es propiedad intelectual e industrial de LIBRELABUCM, salvo que se indique la autora o el autor particular.
 
-Las usuarias y los usuarios que quieran publicar contenidos en este sitio web deberán ser titulares de todos los textos, imágenes, vídeos y logotipos que incluyan en su publicación.
+Las usuarias que quieran publicar contenidos en este sitio web deberán ser titulares de todos los textos, imágenes, vídeos y logotipos que incluyan en su publicación.
 
-En este caso las usuarias y los usuarios mantendrán los derechos de propiedad intelectual sobre las obras que se publiquen.
+En este caso las usuarias mantendrán los derechos de propiedad intelectual sobre las obras que se publiquen.
 
-En el caso contrario, de que no sean dueños del contenido, deberán respetar la licencia de dicha obra, citando si fuera necesario al autor de la misma.
+En el caso contrario, de que no sean dueñas del contenido, deberán respetar la licencia de dicha obra, citando si fuera necesario al autor de la misma.
 
-Las usuarias y los usuarios sólo podrán reproducir o copiar, distribuir, modificar, ceder o comunicar públicamente la información contenida en la web si disponen de la autorización de LIBRELABUCM o del titular de los correspondientes derechos de propiedad intelectual o de imagen de los contenidos publicados o si resulta expresamente autorizado en estas
+Las usuarias sólo podrán reproducir o copiar, distribuir, modificar, ceder o comunicar públicamente la información contenida en la web si disponen de la autorización de LIBRELABUCM o del titular de los correspondientes derechos de propiedad intelectual o de imagen de los contenidos publicados o si resulta expresamente autorizado en estas
 condiciones generales.
 
 Se autoriza la difusión y uso de los contenidos de esta web que sean propiedad intelectual e industrial de LIBRELABUCM tanto para uso privado como para promocionar el sitio web, sus actividades de participación y proyectos de LIBRELABUCM.
@@ -82,10 +82,10 @@ Las personas que quieran incluir en sus webs algún enlace a las páginas web de
 - Que sean respetados los derechos de propiedad intelectual e industrial de LIBRELABUCM y de las personas que hayan publicado contenidos en este sitio web.
 
 ### 2.6. Exclusión de garantías y responsabilidades
-LIBRELABUCM no responderá ante aquellas personas, sean usuarios o terceros, que resulten perjudicados por los daños y perjuicios de cualquier clase y naturaleza causados por:
+LIBRELABUCM no responderá ante aquellas personas, sean usuarias o terceros, que resulten perjudicadas por los daños y perjuicios de cualquier clase y naturaleza causados por:
 
-<ol style="list-style-type: lower-alpha;"><li>los contenidos, productos y servicios prestados por terceras personas, empresas o entidades a través de esta web, y en particular, por los servicios y herramientas de votación y participación prestados por las empresas enlazadas en sus páginas;<li>la falta funcionamiento de la web o de los servicios que se prestan y de los fallos en el acceso a las distintas páginas web o a aquellas desde las que se prestan los servicios;<li>la existencia de virus en el sistema informático, documentos electrónicos o ficheros de los usuarios;<li>la presencia de virus en los servicios prestados por terceras personas, empresas o
-entidades a través de esta web;<li>el acceso a la web por personas no autorizadas utilizando los nombres de usuario y contraseñas del usuarios o saltándose las medidas de seguridad legalmente establecidas e implementadas por LIBRELABUCM;<li>el incumplimiento por parte de los usuarios de las obligaciones de privacidad y de
+<ol style="list-style-type: lower-alpha;"><li>los contenidos, productos y servicios prestados por terceras personas, empresas o entidades a través de esta web, y en particular, por los servicios y herramientas de votación y participación prestados por las empresas enlazadas en sus páginas;<li>la falta funcionamiento de la web o de los servicios que se prestan y de los fallos en el acceso a las distintas páginas web o a aquellas desde las que se prestan los servicios;<li>la existencia de virus en el sistema informático, documentos electrónicos o ficheros de las usuarias;<li>la presencia de virus en los servicios prestados por terceras personas, empresas o
+entidades a través de esta web;<li>el acceso a la web por personas no autorizadas utilizando los nombres de usuario y contraseñas del usuario o saltándose las medidas de seguridad legalmente establecidas e implementadas por LIBRELABUCM;<li>el incumplimiento por parte de los usuarios de las obligaciones de privacidad y de
 protección de datos de carácter personal propios y de terceras personas;<li>el mal uso de la web o de los servicios de votación y participación prestados por LIBRELABUCM y por las empresas enlazadas en sus páginas;<li>el incumplimiento de las presentes condiciones generales y particulares y las publicadas en cualquier página de esta web y en las de terceros;<li>las infracciones en materia de propiedad intelectual o industrial y derechos de imagen cometidos por los usuarios;<li>las vulneraciones de los derechos al honor, la intimidad personal y familiar y la propia imagen de otros usuarios de la web y de terceros cometidos por los usuarios.
 </ol>
 
@@ -113,14 +113,14 @@ En todo momento puedes configurar tu programa de navegación para impedir (bloqu
 
 ### 3.2 ¿Para qué se usan las cookies?
 - **Cookies esenciales**. Se trata de cookies técnicas necesarias para gestionar el flujo de navegación dentro de la web o para mantenerte conectado a la misma. Si las deshabilitas, es posible que algún apartado de la web no funcione correctamente.
-- **Cookies de personalización**. Necesarias para recordar determinadas preferencias del usuario.
-- **Cookies analíticas**. Nos ayudan a nosotros y a terceros a recopilar información de la procedencia de los usuarios y su navegación dentro de la web, a efectos de realizar un análisis estadístico para poder mejorar su estructura y contenidos.
+- **Cookies de personalización**. Necesarias para recordar determinadas preferencias de la usuaria.
+- **Cookies analíticas**. Nos ayudan a nosotros y a terceros a recopilar información de la procedencia de las usuarias y su navegación dentro de la web, a efectos de realizar un análisis estadístico para poder mejorar su estructura y contenidos.
 - **Cookies publicitarias**. Utilizadas para gestionar los anuncios que aparecen en la web, decidir el contenido o la frecuencia de los anuncios.
 - **Cookies publicitarias comportamentales**. Ayudan a recopilar tus hábitos de navegación para crear un perfil de intereses que sirve para mostrarte anuncios más relevantes.
 - **Cookies para compartición social**. Estas cookies son necesarias para identificarte en tus redes sociales y así permitirte compartir contenidos.
 
 ### 3.3. ¿Qué cookies utiliza esta web?
-**Google Analytics (__utma, __utmz)**: Estas cookies son servidas por Google Analytics para recoger diversa información sobre la navegación del usuario por el site. Por ejemplo, la ubicación del visitante, detalles de la visita realizada (tiempo, páginas vistas, etc.).
+**Google Analytics (__utma, __utmz)**: Estas cookies son servidas por Google Analytics para recoger diversa información sobre la navegación de la usuaria por el sitio. Por ejemplo, la ubicación del visitante, detalles de la visita realizada (tiempo, páginas vistas, etc.).
 
 **Recaptcha (AID, APISID, CAL, GAPS, HSID, I4SUserLocale, NID, OGPC, OTZ, PREF, PREF, SAPISID, SID, SNID, SSID)**: Estas cookies son servidas por Google, para el correcto funcionamiento de su servicio de Recaptcha.
 
@@ -142,3 +142,5 @@ Puedes encontrar información en las webs de los principales navegadores:
 - **Safari**: http://support.apple.com/kb/ph5042
 - **Safari para IOS**: http://support.apple.com/kb/HT1677?viewlocale=es_ES&locale=es_ES
 - **Opera**: http://help.opera.com/Windows/11.50/es-ES/cookies.html
+
+*Los terminos usuaria y usuarias hacen referencia a ambos géneros, tanto al masculino como al femenino.
