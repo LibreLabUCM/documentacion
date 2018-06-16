@@ -284,4 +284,4 @@ Identificadores de redes sociales.
 Dirección IP, login, fecha y hora de acceso a la web de LibreLabUCM.
 
 
-Puedes consultar esta información adicional sobre Protección de Datos y descargar una copia en la página web <a href="http://librelabucm.org">librelabucm.org</a>
+Puedes consultar esta información adicional sobre Protección de Datos y descargar una copia en la página web http://librelabucm.org

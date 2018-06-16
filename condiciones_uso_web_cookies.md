@@ -120,11 +120,46 @@ En todo momento puedes configurar tu programa de navegación para impedir (bloqu
 - **Cookies para compartición social**. Estas cookies son necesarias para identificarte en tus redes sociales y así permitirte compartir contenidos.
 
 ### 3.3. ¿Qué cookies utiliza esta web?
+
+#### https://librelabucm.org/
+
 **Google Analytics (__utma, __utmz)**: Estas cookies son servidas por Google Analytics para recoger diversa información sobre la navegación de la usuaria por el sitio. Por ejemplo, la ubicación del visitante, detalles de la visita realizada (tiempo, páginas vistas, etc.).
 
 **Recaptcha (AID, APISID, CAL, GAPS, HSID, I4SUserLocale, NID, OGPC, OTZ, PREF, PREF, SAPISID, SID, SNID, SSID)**: Estas cookies son servidas por Google, para el correcto funcionamiento de su servicio de Recaptcha.
 
-*...Completar...*
+**cookieconsent_dismissed**: preferencias de usuario relativas a las cookies.
+
+**__cfduid**: para mantener la sesión y realizar la autenticación.
+
+#### https://trinity.librelabucm.org  
+
+**PHPSESSID, login_tokens**: para mantener la sesión y realizar la autenticación.  
+
+#### https://gitlab.librelabucm.org/
+
+**_gitlab_session, remember_user_token**: para mantener la sesión y realizar la autenticación.  
+
+**sidebar_collapsed**: preferencias de usuario.
+
+#### https://foro.librelabucm.org
+
+**_forum_session, _t**: preferencias de usuario relativas a las cookies.
+
+#### https://liberarfdi.librelabucm.org
+
+**cpPosTime, UseCDNCache, UseDC, VEE**: funcionamiento interno de la página.  
+
+**llu_liberarfdi_session, llu_liberarfdiToken, llu_liberarfdiUserID, llu_liberarfdiUserName**: para mantener la sesión y realizar la autenticación.  
+
+#### http://gnusocial.librelabucm.org/
+
+**PHPSESSID**: para mantener la sesión y realizar la autenticación.  
+
+**rememberme**: preferencias de usuario.
+
+#### https://wekan.librelabucm.org/
+
+**meteor_login_token**: para mantener la sesión y realizar la autenticación.
 
 ### 3.4. ¿Cómo impedir el uso de cookies y cómo borrar las cookies?
 La mayoría de navegadores te permiten desactivar completamente las cookies. Los navegadores también te permiten borrar las cookies creadas por una web específica.
