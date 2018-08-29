@@ -159,7 +159,10 @@ En todo momento puedes configurar tu programa de navegación para impedir (bloqu
 
 #### https://wekan.librelabucm.org/
 
-**meteor_login_token**: para mantener la sesión y realizar la autenticación.
+**meteor_login_token**: para mantener la sesión y realizar la autenticación.  
+
+#### https://account.librelabucm.org/
+**LLUSESID, alc**: para mantener la sesión y realizar la autenticación.
 
 ### 3.4. ¿Cómo impedir el uso de cookies y cómo borrar las cookies?
 La mayoría de navegadores te permiten desactivar completamente las cookies. Los navegadores también te permiten borrar las cookies creadas por una web específica.
