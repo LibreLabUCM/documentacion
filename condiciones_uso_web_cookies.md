@@ -44,7 +44,7 @@ servicios de esta web, los equipos informáticos o los documentos, archivos y co
 
 Cuando el uso de estas herramientas implique el enlace a sitios web de terceros, deberán cumplirse las condiciones de uso, empleo de cookies y política de privacidad del prestador de servicios de la web de destino.
 
-Las usuarias no están autorizadas a reproducir, copiar, distribuir, modificar, ceder o comunicar públicamente la información contenida en la web a menos que se cuente con la autorización del titular de los correspondientes derechos o que resulte legalmente permitido.
+El sitio web está bajo una licencia de **Creative Commons Reconocimiento-CompartirIgual CC BY-SA**. Esta licencia permite re-mezclar, modificar y desarrollar sobre la obra incluso para propósitos comerciales, siempre que atribuyan el crédito y se licencien las nuevas obras bajo idénticos términos. Cualquier obra nueva basada en esta, lo será bajo la misma licencia, de modo que cualquier obra derivada permitirá también su uso comercial. Sin embargo se deberá respetar la licencia impuesta por la autora o autor del contenido, en aquellas obras que no sean propiedad intelectual e industrial de LIBRELABUCM.
 
 Las usuarias no están autorizadas a enviar mensajes no solicitados dirigidos a una pluralidad de personas con independencia de su finalidad, así como comercializar de cualquier modo dicha información.
 
@@ -64,10 +64,9 @@ Se autoriza la difusión y uso de los contenidos de esta web que sean propiedad 
 
 Se prohibe expresamente enviar mensajes no solicitados con contenidos de esta página web y dirigidos a una pluralidad de personas con independencia de su finalidad o utilizarlos de cualquier modo que impliquen la obtención de un beneficio económico o que puedan perjudicar de cualquier modo a LIBRELABUCM.
 
-Supone una infracción de los derechos de propiedad intelectual protegidos por la ley copiar, reproducir, comunicar, distribuir, modificar o ceder la información contenida en la web y propiedad de terceros, a menos que se cuente con la autorización del titular de los correspondientes derechos, que resulte legalmente permitido o que esté expresamente
-autorizado en estas condiciones generales.
+Supone una infracción de los derechos de propiedad intelectual protegidos por la ley copiar, reproducir, comunicar, distribuir, modificar o ceder la información contenida en la web y propiedad de terceros, a menos que se cuente con la autorización del titular de los correspondientes derechos, que resulte legalmente permitido o que esté expresamente autorizado en estas condiciones generales.
 
-El sitio web está bajo una licencia de **Creative Commons Reconocimiento-CompartirIgual CC BY-SA**. Esta licencia permite a otros re-mezclar, modificar y desarrollar sobre tu obra incluso para propósitos comerciales, siempre que te atribuyan el crédito y licencien sus nuevas obras bajo idénticos términos. Cualquier obra nueva basada en la tuya, lo será bajo la misma licencia, de modo que cualquier obra derivada permitirá también su uso comercial.
+El sitio web está bajo una licencia de **Creative Commons Reconocimiento-CompartirIgual CC BY-SA**. Sin embargo se deberá respetar la licencia impuesta por la autora o autor del contenido, en aquellas obras que no sean propiedad intelectual e industrial de LIBRELABUCM.
 
 ### 2.5. Links
 Este sitio web podrá contener enlaces a webs de terceros.
