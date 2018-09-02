@@ -5,7 +5,7 @@
 # Política de privacidad de LibreLabUCM
 ## Protección de datos personales
 
-  El Reglamento General de Protección de Datos (en adelante, RGPD),aplicable a partir del 25 de mayo de 2018,es una norma de aplicación directa en toda la Unión Europea, relativa a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos.
+  El Reglamento General de Protección de Datos (en adelante, RGPD), aplicable a partir del 25 de mayo de 2018, es una norma de aplicación directa en toda la Unión Europea, relativa a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos.
 
   Este nuevo Reglamento europeo sustituye a la actual Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal (LOPD) y al Real Decreto 1720/2007, de 21 de diciembre, que aprueba el Reglamento de desarrollo de la misma.
 
